@@ -1,2 +1,3 @@
 # Git_project1
 project 1 ...
+## notes
